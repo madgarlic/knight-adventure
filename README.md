@@ -9,4 +9,4 @@ Our hero, the knight, goes on a quest to rescue her.
 Platform adventure
 
 ## Graphic style
-Drowings on paper and cardboard. 
+Drawings on paper and cardboard. 
